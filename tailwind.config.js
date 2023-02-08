@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'iran-sans': ['iran-sans'],
+        // 'iran': ['iran-sans'],
+      },
+    },
   },
   plugins: [],
 }
