@@ -6,3 +6,12 @@
     font-family: 'iran-sans';
     src: url('../dist/font/IRANSansWeb.cdb118d6.woff2') format('woff2');
 }
+@font-face {
+    font-family: 'icon';
+    src: url('../dist/font/sonnat-icons.86804695.woff2') format('woff2')
+}
+
+@font-face {
+    font-family: 'icon';
+    src: url('../dist/font/IRANSansWeb_Medium.9f338149.woff2') format('woff2')
+}
